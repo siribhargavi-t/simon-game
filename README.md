@@ -30,3 +30,7 @@ SimonGame
 
 ## Author
 T.Siri Bhargavi
+
+
+## Screenshot
+<img width="3050" height="1604" alt="image" src="https://github.com/user-attachments/assets/1deaeb0c-bbdf-42fe-a5a3-9a3f2da13433" />
