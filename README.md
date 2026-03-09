@@ -19,11 +19,10 @@ Each level adds a new color to the sequence, making the game more challenging.
 5. If you click the wrong color, the game ends.
 
 ## Project Structure
-SimonGame/
-│
-├── index.html
-├── style.css
-└── script.js
+SimonGame
+-index.html
+-style.css
+-script.js
 
 ## Features
 - Interactive color buttons
